@@ -63,6 +63,7 @@ export default {
       if (windowWidth >= 700) {
         this.overlay = false;
         this.showMobileMenu = true;
+        document.body.style.overflow = "unset";
       } else {
         this.overlay = false;
         this.showMobileMenu = false;
