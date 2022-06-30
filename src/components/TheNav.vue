@@ -67,6 +67,7 @@ export default {
       } else {
         this.overlay = false;
         this.showMobileMenu = false;
+        document.body.style.overflow = "unset";
       }
       // if (windowWidth <= 700) {
       //   return
