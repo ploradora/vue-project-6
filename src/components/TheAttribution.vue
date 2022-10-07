@@ -3,7 +3,7 @@
     Challenge by
     <a href="https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq" target="_blank"
       >Frontend Mentor</a
-    >. Coded by <a href="#">Sebastian Suciu</a>.
+    >. Coded by <a href="https://sebastiansuciu.netlify.app/">Sebastian Suciu</a>.
   </div>
 </template>
 
