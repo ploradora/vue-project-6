@@ -1,7 +1,7 @@
 <template>
   <div class="attribution">
     Challenge by
-    <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+    <a href="https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq" target="_blank"
       >Frontend Mentor</a
     >. Coded by <a href="#">Plora Dora</a>.
   </div>
